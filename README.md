@@ -1,2 +1,2 @@
 # Sentiment_analysis_using_XGBoost
-We will take a look on how we can implement XGBoost model to predict the sentiment
+In this repo, we look at how we can implement the XGBoost model to predict the sentiment based on tweets. We also compare the performance between the optimized hyperparameters of XGBoost model (using TPE-Bayesian optimization) and the default hyperparameters of the XGBoost model. The dataset used in this repo is based on [Airline tweets](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) dataset from Kaggle. Please take a look and have fun!
